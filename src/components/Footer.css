@@ -1,0 +1,8 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  background-color: blue;
+}
+.name {
+  font-size: large;
+}
